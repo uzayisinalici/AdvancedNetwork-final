@@ -5,3 +5,5 @@ Mininet Machine
 ![onos](https://github.com/uzayisinalici/final-project/assets/91671512/40133c3e-0e91-470e-8724-7e3a0674b084)
 
 ![dfgdfgfd](https://github.com/uzayisinalici/final-project/assets/91671512/4cf2bfa4-3a07-412c-9f56-818684e6c330)
+![dfgdfgfd](https://github.com/uzayisinalici/final-project/assets/91671512/7a3aa917-300a-41b4-9426-1647f957998a)
+![f](https://github.com/uzayisinalici/final-project/assets/91671512/62453615-81ab-4a02-a92f-fc3411ff31d8)
